@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>zoom_out</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Iconset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="zoom_out" sketch:type="MSArtboardGroup" stroke="#707070" stroke-linecap="square">
+            <path d="M14.3183931,14.583527 L17.5742646,17.5680759 L14.3183931,14.583527 C13.32917,15.5379453 11.983142,16.125 10.5,16.125 C7.46243388,16.125 5,13.6625661 5,10.625 C5,7.58743388 7.46243388,5.125 10.5,5.125 C13.5375661,5.125 16,7.58743388 16,10.625 C16,12.1794241 15.3551597,13.5832378 14.3183931,14.583527 Z" id="Line" sketch:type="MSShapeGroup"></path>
+            <path d="M7.5,10.625 L13.5,10.625" id="Line" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
